@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Baltimore, MD</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://andrewscohen.github.io/](https://andrewscohen.github.io/)
+- 👨‍💻 All of my projects are available at [https://andrewcohen.dev/](https://andrewcohen.dev/)
 
 - 📫 How to reach me **andrewcohen14@gmail.com**
 

@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/67562159/113805548-b374d400-972e-11eb-8873-c272b6f8906b.png" alt="table mountain"/>
-<h3 align="center">A passionate frontend developer from Baltimore, MD</h3>
+<h3 align="center">A passionate full stack developer from Baltimore, MD</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://andrewcohen.dev/](https://andrewcohen.dev/)

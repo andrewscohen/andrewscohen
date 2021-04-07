@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Cohen</h1>
 <h3 align="center">A passionate frontend developer from Baltimore, MD</h3>
 
+
 - 👨‍💻 All of my projects are available at [https://andrewscohen.github.io/](https://andrewscohen.github.io/)
 
 - 📫 How to reach me **andrewcohen14@gmail.com**

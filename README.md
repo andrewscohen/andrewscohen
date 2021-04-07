@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **andrewcohen14@gmail.com**
 
-- ⚡ Fun fact **I toured on the road with Elton John for 10 years. Also I like to design things**
+- ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van named Kelby with my wife and Jack Russell, Rider**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

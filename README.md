@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **andrewcohen14@gmail.com**
 
-- ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van named Kelby with my wife and Jack Russell, Rider**
+- ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van named Kelby with my wife and spunky Jack Russell, Rider**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

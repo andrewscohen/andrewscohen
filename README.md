@@ -3,14 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://andrewcohen.dev/](https://andrewcohen.dev/)
 
-- 📫 How to reach me **andrewcohen14@gmail.com**
-
 - ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van with my wife and spunky Jack Russell, Rider**
 
-<h2 align="left">Connect with me:</h2>
+### Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/mrandrewcohen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrandrewcohen" height="30" width="40" /></a>
-<a href="https://fb.com/andrew.cohen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andrew.cohen1" height="30" width="40" /></a>
+<p>
+<a href="https://linkedin.com/in/mrandrewcohen" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:andrewcohen14@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 ### Languages and Tools

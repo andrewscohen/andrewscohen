@@ -14,7 +14,6 @@
 </p>
 </br>
 <h2 align="left">Languages and Tools</h2>
-</br>
 
 ### Languages
 ![javascript](static/javascript.svg)

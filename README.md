@@ -7,9 +7,9 @@
 <a href="mailto:andrewcohen14@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-- 👨‍💻 All of my projects are available at [https://andrewcohen.dev/](https://andrewcohen.dev/)
+👨‍💻 All of my projects are available at [https://andrewcohen.dev/](https://andrewcohen.dev/)
 
-- ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van with my wife and spunky Jack Russell, Rider**
+⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van with my wife and spunky Jack Russell, Rider**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewscohen&show_icons=true&locale=en" max-width="100%" height="175" alt="andrewscohen" />
@@ -18,7 +18,7 @@
 
 ### Languages and Tools
 
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku" /></a>

@@ -48,8 +48,7 @@
 
 ### Testing
 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=andrewscohen&show_icons=true&locale=en" max-width="100%" height="175" alt="andrewscohen" />

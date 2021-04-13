@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I travelled across the US and Canada for 7 months in a camper van with my wife and spunky Jack Russell, Rider**
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewscohen&show_icons=true&locale=en" max-width="100%" height="175" alt="andrewscohen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewscohen&show_icons=true&locale=en&layout=compact" max-width="100%" height="175" alt="andrewscohen" />
+</p>
+
 ### Languages and Tools
 
 <p align="center">
@@ -29,7 +34,4 @@
 
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewscohen&show_icons=true&locale=en" max-width="100%" height="175" alt="andrewscohen" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewscohen&show_icons=true&locale=en&layout=compact" max-width="100%" height="175" alt="andrewscohen" />
-</p>
+

@@ -13,41 +13,21 @@
 <a href="https://fb.com/andrew.cohen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andrew.cohen1" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools</h2>
+### Languages and Tools
 
-### Languages
-![javascript](static/javascript.svg)
-![python](static/python.svg)
-
-### Frontend
-
-![react](static/react.svg)
-![redux](static/redux.svg)
-![tailwindcss](static/tailwindcss.svg)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-
-### Backend
-
-![postgresql](static/postgresql.svg)
-![expressjs](static/expressjs.svg)
-![flask](static/flask.svg)
-
-### Environment and Tools 
-
-![vscode](static/vscode.svg)
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-![heroku](static/heroku.svg)
-![docker](static/docker.svg)
-![postman](static/postman.svg)
-![nodejs](static/nodejs.svg)
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
-### Testing
-
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
+<a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku" /></a>
+<a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express.js-000000?logo=Express" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL" /></a>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=333333" /></a>
+<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux" /></a>
+<a href="https://sequelize.org/"><img src="https://img.shields.io/badge/-Sequelize-039BE5" /></a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff" /></a>
+<a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+<a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=andrewscohen&show_icons=true&locale=en" max-width="100%" height="175" alt="andrewscohen" />
